@@ -5,10 +5,6 @@
 > An awesome multipurpose discord bot built using [discord.js v13](https://discord.js.org) with support for slash commands and context menus
 
 > Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client\_id=744597377406599188\&permissions=397602323830\&scope=bot%20applications.commands)
->
-> Support Server: [Join Here](https://discord.gg/uPBqMHu9X4)
->
-> Documentation URL: [Visit Here](https://github.com/MrrVit665/automod-bot/#README.md)
 
 ### Prerequisites
 
@@ -21,7 +17,7 @@
 * Open the terminal and run the following commands
 
 ```
-git clone https://github.com/Khanmanan/automod-bot.git
+git clone https://github.com/kira134/dsdsd.git
 cd discord-js-bot
 npm install
 ```
@@ -67,5 +63,3 @@ A complete list of commands can be found in the [documentation](docs/commands/)
 ### 🤝 Contributing
 
 * Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
-* Feel free to [Fork](https://github.com/Khanmanan/automod-bot/fork) this repository, create a feature branch and submit a pull request
-* You can check all the planned features [here](https://github.com/Khanmanan/automod-bot/projects) or make a request for one at our discord
